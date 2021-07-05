@@ -1,5 +1,5 @@
 {% set name = "reprit" %}
-{% set version = "0.4.0" %}
+{% set version = "0.6.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: e393db131d975344952023e2bfa8e02cd9d38653c1c0df884ff958d7cd95ab8a
+  sha256: 35600bb3a5f24cf320d60707f74f09b3c377939bb1e3bd1310560957cd8560f6
 
 build:
   number: 0
