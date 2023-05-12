@@ -1,11 +1,11 @@
-About reprit
-============
+About reprit-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/reprit-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lycantropos/reprit
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/reprit-feedstock/blob/main/LICENSE.txt)
 
 Summary: Auto __repr__ method generation.
 
